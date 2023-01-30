@@ -1,0 +1,26 @@
+#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml
+
+#EXTINF:-1 tvg-chno="" tvg-id="Nusantara.id" tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png" group-title="Local Channel", Nusantara TV
+rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-chno="38" tvg-id="GarudaTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Garuda_TV_Logo.png" group-title="Local Channel", GARUDA TV
+rtp://@239.1.1.164:8965
+#EXTINF:-1 tvg-chno="38" tvg-id="INews.id" tvg-logo="http://images.useetv.com/logo_inews_big.png" group-title="Local Channel",  iNEWS (129)
+rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-chno="38" tvg-id="MNCNews.id" tvg-logo="http://images.useetv.com/logo_mncnews_big.png" group-title="Local Channel",  MNC NEWS (812)
+rtp://@239.1.1.146:7985
+#EXTINF:-1 tvg-chno="38" tvg-id="MentariTV.id" tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids",  Mentari TV (316)
+rtp://@239.1.1.127:8815
+#EXTINF:-1 tvg-chno="38" tvg-id="OchannelTV.id"tvg-logo="http://images.useetv.com/logo_ochannel_big.png" group-title="Local Channel",  O Channel (125)
+rtp://@239.1.1.144:8845
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="Nonstop Entertainment (2)" tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",Nonstop Entertainment (2)
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-chno="3" tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel",TVRI (100)
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-chno="3" tvg-id="TVRINasional.id" tvg-name="TVRI HD" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel", TVRI HD (880)
+rtp://@239.1.1.238:8016
+#EXTINF:-1 tvg-chno="4" tvg-id="MetroTV.id" tvg-name="Metro TV (101)" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (101)
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-chno="5" tvg-id="MetroTV.id" tvg-name="Metro TV HD (915)" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",Metro TV HD (915)
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-chno="6" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia (102)" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Local Channel",CNN Indonesia (102)
+rtp://@239.1.1.241:9362
